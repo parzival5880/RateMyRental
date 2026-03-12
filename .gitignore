@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+out/
+.env.local
+.env.production
+
+# Data (too large for git)
+scripts/data/
+*.json
+*.csv
+*.ZIP
+*.zip
+
+# OS
+.DS_Store
+*.swp
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.cursor
